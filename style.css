@@ -1,0 +1,15 @@
+#mainButton {
+    color:white;
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    border-width: 10px;
+    border-radius: 300px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+video {
+    width: 1263px;
+    height: 700px;
+}
